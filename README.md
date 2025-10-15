@@ -39,7 +39,7 @@ Linux
 2. Zaženi ukaz:
 
     ```bash
-    ollama pull llama3.1
+    ollama run llama3.1
     ```
    
    ⏱️ Opomba: Prvi zagon lahko traja nekaj minut, ker se model prenaša.
