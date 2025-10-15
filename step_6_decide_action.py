@@ -82,15 +82,16 @@ class EventAgent:
 
     def format_events(self, events):
         formatted_events = []
-        for i, event in enumerate(result[:3], 1):  # Show top 3
+        for i, event in enumerate(events[:3], 1):  # Show top 3
             event_info = f"{i}. **{event['name']}**"
             event_info += f"\n   📅 {event['date']}"
-            event_info += f"\n   📍 Location: {event['location']}"
+            event_info += f"\n   📍 Location: {event['venue']}"
             event_info += f"\n   💰 Price: {event['price']}"
             if event.get('reasons'):
                 event_info += f"\n   💡 Why: {', '.join(event['reasons'])}"
             formatted_events.append(event_info)
-        return "Here are some events for you:\n\n" + "\n\n".join(formatted_events)
+        print("formatted_events: ", formatted_events)
+        return formatted_events
 
     def get_mock_events(self):
         # Mock API call - returns fake events
@@ -111,40 +112,35 @@ class EventAgent:
         
         prompt = f"""You are a JSON-only response system. You must respond with ONLY valid JSON, no other text.
 
-Current user preferences: {json.dumps(user_preferences)}
-
-User said: "{user_input}"
-
 Update the user preferences based on the user's message.
 Keep all other fields unchanged and don't remove or add any fields.
 
-For interests, you can ONLY add the following:
+IMPORTANT: Only update preferences if the user explicitly mentions interests, location, or price preferences. 
+For simple greetings like "Hi", "Hello", "How are you?", do NOT change any preferences.
+
+If user expresses interest in a specific topic, update the interests field, if it's one of the following:
 - music
 - theater
 - sports
 - entrepreneurship
 - technology
 - history
-If user expresses interest in a topic that is not in the list, do not add anything to the interests.
 
-Examples:
+Examples - if the user said:
 - "I enjoy learning about AI" → add "technology" to interests
-- "I'm interested in the middle ages" → add "history" to interests  
-- "I hate sports" → remove "sports" from interests if present
-" I like animals" → do not add anything to the interests
-
-If user expresses interest in a specific location, update the location field.
-Examples:
-- "I live in San Francisco" → update "location" to "San Francisco"
 
 For preferred_price, you can only add the following:
 - affordable (up to 20 EUR)
 - moderate (up to 50 EUR)
 For anything above 50 EUR, do not update the preferred_price field.
 
-Examples:
+Examples - if the user said:
 - "I prefer free events" → update "preferred_price" to "affordable"
 - "I prefer events up to 50 EUR" → update "preferred_price" to "moderate"
+
+Current user preferences: {json.dumps(user_preferences)}
+
+User said: "{user_input}"
 
 CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no code blocks, no extra text.
 """
@@ -208,10 +204,8 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
 
         Available actions:
         - "general_chat": Have a normal conversation.
-        - "suggest_events": Show personalized event recommendations.
+        - "suggest_events": Show personalized event recommendations. Return this action ONLY if the user asks for them in some way.
         - "quit": Quit the agent, end the conversation
-
-        Only suggest events if the user asks for them in some way.
         
         Respond with ONLY the action name, nothing else."""
 
@@ -237,7 +231,7 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
                 # Execute the action
                 if action == "quit":
                     # TODO: Quit the agent
-                
+
                 # Update user preferences
                 self.update_user_preferences(user_input)
 
@@ -266,16 +260,12 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
                 if action == "suggest_events":
                     # TODO: Get suggested events
                     suggested_events = []
+
+                    # TODO:Format events
                     formatted_events = []
-                    for i, event in enumerate(suggested_events[:3], 1):  # Show top 3
-                        event_info = f"{i}. **{event['name']}**"
-                        event_info += f"\n   📅 {event['date']}"
-                        event_info += f"\n   📍 Location: {event['venue']}"
-                        event_info += f"\n   💰 Price: {event['price']}"
-                        if event.get('reasons'):
-                            event_info += f"\n   💡 Why: {', '.join(event['reasons'])}"
-                        formatted_events.append(event_info)
+
                     response = "Here are some events for you:\n\n" + "\n\n".join(formatted_events)
+
                     print(f"🤖 {response}\n")
 
                     # Store conversation in history
