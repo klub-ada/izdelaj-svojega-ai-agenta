@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Slovenian AI & Tech Summit",
+        "category": "technology",
+        "date": "2025-11-15",
+        "organizer": "Slovenian Tech Community",
+        "venue": "Cankarjev dom",
+        "price": 20
+    },
+    {
+        "id": "2",
+        "name": "Ljubljana Jazz Festival",
+        "category": "music",
+        "date": "2025-11-20",
+        "organizer": "Ljubljana Festival",
+        "venue": "Kino Šiška",
+        "price": 25
+    },
+    {
+        "id": "3",
+        "name": "Startup Networking Evening",
+        "category": "entrepreneurship",
+        "date": "2025-11-25",
+        "organizer": "Koper Business Network",
+        "venue": "Koper Conference Centre",
+        "price": 30
+    },
+    {
+        "id": "4",
+        "name": "Classical Concert at Maribor Castle",
+        "category": "music",
+        "date": "2025-11-28",
+        "organizer": "Maribor Theatre",
+        "venue": "Maribor Castle",
+        "price": 15
+    },
+    {
+        "id": "5",
+        "name": "Alpine Hiking Workshop",
+        "category": "sports",
+        "date": "2025-11-05",
+        "organizer": "Slovenian Alpine Association",
+        "venue": "Bled Castle",
+        "price": 50
+    },
+    {
+        "id": "6",
+        "name": "Maribor Theatre Performance",
+        "category": "theater",
+        "date": "2025-11-10",
+        "organizer": "Maribor Theatre",
+        "venue": "Maribor Castle",
+        "price": 30
+    }
+]

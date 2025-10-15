@@ -1,0 +1,45 @@
+{
+    "venues": {
+        "Cankarjev dom": {
+            "location": "Ljubljana",
+            "type": "cultural center"
+        },
+        "Kino Šiška": {
+            "location": "Ljubljana", 
+            "type": "music venue"
+        },
+        "Maribor Castle": {
+            "location": "Maribor",
+            "type": "historic venue"
+        },
+        "Koper Conference Centre": {
+            "location": "Koper",
+            "type": "conference center"
+        },
+        "Bled Castle": {
+            "location": "Bled",
+            "type": "historic venue"
+        }
+    },
+    "organizers": {
+        "Ljubljana Festival": {
+            "user_follows": false
+        },
+        "Slovenian Tech Community": {
+            "user_follows": false
+        },
+        "Maribor Theatre": {
+            "user_follows": true
+        },
+        "Slovenian Alpine Association": {
+            "user_follows": false
+        },
+        "Koper Business Network": {
+            "user_follows": false
+        }
+    },
+    "pricing": {
+        "affordable": 20,
+        "moderate": 50    
+    }
+}
