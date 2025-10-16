@@ -1,0 +1,5017 @@
+{
+    "products": [
+        {
+            "productId": "20663753",
+            "productGroupId": "3979720",
+            "name": "Muzej zaboravljenih priča",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/muzej-zaboravljenih-prica-muzej-zaboravljenih-prica-20663753/",
+            "url": {
+                "path": "/event/muzej-zaboravljenih-prica-muzej-zaboravljenih-prica-20663753/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759925994457.jpg",
+            "price": 12.50,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-05-07T20:00:00+02:00",
+                    "endDate": "2025-12-31T23:59:00+01:00",
+                    "location": {
+                        "name": "Muzej zaboravljenih priča",
+                        "city": "Zagreb",
+                        "postalCode": "10000"
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Muzej zaboravljenih priča"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Razstava",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20541596",
+            "productGroupId": "3956223",
+            "name": "Tematski park za vso družino",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/tematski-park-za-vso-druzino-koruzni-labirint-krtina-20541596/",
+            "url": {
+                "path": "/event/tematski-park-za-vso-druzino-koruzni-labirint-krtina-20541596/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1755066103702.jpg",
+            "price": 11.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-08-13T12:00:00+02:00",
+                    "endDate": "2025-10-31T20:00:00+01:00",
+                    "location": {
+                        "name": "Koruzni labirint Krtina",
+                        "city": "Krtina",
+                        "postalCode": "1233",
+                        "geoLocation": {
+                            "longitude": 14.662801425188553,
+                            "latitude": 46.1503917927049
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Tematski park za vso družino"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Zabava",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20210211",
+            "productGroupId": "3868283",
+            "name": "Hk Olimpija Ljubljana Sezona 2025 / 2026",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/hk-olimpija-ljubljana-sezona-2025-2026-dvorana-tivoli-20210211/",
+            "url": {
+                "path": "/event/hk-olimpija-ljubljana-sezona-2025-2026-dvorana-tivoli-20210211/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759131205503.jpg",
+            "inStock": false,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-09-10T17:00:00+02:00",
+                    "endDate": "2026-03-01T23:59:00+01:00",
+                    "location": {
+                        "name": "Dvorana Tivoli",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.4954129,
+                            "latitude": 46.0599169
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "HK Olimpija Ljubljana"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Hokej na ledu",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 2,
+                "average": 5.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20732938",
+            "productGroupId": "3993287",
+            "name": "Slovenska vicoteka",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/slovenska-vicoteka-dom-borcev-sentjanz-pri-dravogradu-20732938/",
+            "url": {
+                "path": "/event/slovenska-vicoteka-dom-borcev-sentjanz-pri-dravogradu-20732938/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759220970824.jpg",
+            "price": 16.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:00:00+02:00",
+                    "location": {
+                        "name": "Dom borcev Šentjanž pri Dravogradu",
+                        "city": "Šentjanž pri Dravogradu",
+                        "postalCode": "2373"
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Slovenska vicoteka"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20569396",
+            "productGroupId": "3991871",
+            "name": "Olimpija Ljubljana : Black Wings Linz",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/hk-olimpija-ljubljana-olimpija-ljubljana-black-wings-linz-dvorana-tivoli-20569396/",
+            "url": {
+                "path": "/event/hk-olimpija-ljubljana-olimpija-ljubljana-black-wings-linz-dvorana-tivoli-20569396/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1754295826620.jpg",
+            "price": 18.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:00:00+02:00",
+                    "location": {
+                        "name": "Dvorana Tivoli",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.4954129,
+                            "latitude": 46.0599169
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "HK Olimpija Ljubljana"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Hokej na ledu",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 2,
+                "average": 5.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20634047",
+            "productGroupId": "3974296",
+            "name": "Adi Smolar",
+            "type": "LiveEntertainment",
+            "status": "SoldOut",
+            "link": "https://www.eventim.si/event/adi-smolar-dvorana-mestne-cetrti-nova-vas-20634047/",
+            "url": {
+                "path": "/event/adi-smolar-dvorana-mestne-cetrti-nova-vas-20634047/",
+                "domain": "https://www.eventim.si"
+            },
+            "inStock": false,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:00:00+02:00",
+                    "location": {
+                        "name": "DVORANA MESTNE ČETRTI NOVA VAS",
+                        "city": "Maribor",
+                        "postalCode": "2000"
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Adi Smolar"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20457191",
+            "productGroupId": "3937123",
+            "name": "Penziči",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/penzici-primskovo-20457191/",
+            "url": {
+                "path": "/event/penzici-primskovo-20457191/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1754555869262.jpg",
+            "price": 21.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:00:00+02:00",
+                    "location": {
+                        "name": "Primskovo",
+                        "city": "Kranj",
+                        "postalCode": "4000",
+                        "geoLocation": {
+                            "longitude": 14.3685207,
+                            "latitude": 46.2472816
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Penziči"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20055559",
+            "productGroupId": "3865318",
+            "name": "Popstars Re-United Maribor",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/popstars-re-united-maribor-dvorana-tabor-20055559/",
+            "url": {
+                "path": "/event/popstars-re-united-maribor-dvorana-tabor-20055559/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1758617091364.jpg",
+            "price": 25.90,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:00:00+02:00",
+                    "location": {
+                        "name": "Dvorana Tabor",
+                        "city": "Maribor",
+                        "postalCode": "2000",
+                        "geoLocation": {
+                            "longitude": 15.635694,
+                            "latitude": 46.549488
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Popstars Re-United"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Glasba"
+                },
+                {
+                    "name": "Rock & pop",
+                    "parentCategory": {
+                        "name": "Glasba"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20636550",
+            "productGroupId": "3949004",
+            "name": "Tadej Toš - ANALOGNO",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/tadej-tos-analogno-narodni-dom-celje-20636550/",
+            "url": {
+                "path": "/event/tadej-tos-analogno-narodni-dom-celje-20636550/",
+                "domain": "https://www.eventim.si"
+            },
+            "inStock": false,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:00:00+02:00",
+                    "location": {
+                        "name": "Narodni dom Celje",
+                        "city": "Celje",
+                        "postalCode": "3000",
+                        "geoLocation": {
+                            "longitude": 15.261888,
+                            "latitude": 46.2294294
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Tadej Toš"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Ostalo",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20757441",
+            "productGroupId": "3997449",
+            "name": "Olimpija Ljubljana: paketna vstopnica - 10. 10 2025, 19.00 in 12. 10. 2025, 17.45",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/hk-olimpija-ljubljana-olimpija-ljubljana-paketna-vstopnica-dvorana-tivoli-20757441/",
+            "url": {
+                "path": "/event/hk-olimpija-ljubljana-olimpija-ljubljana-paketna-vstopnica-dvorana-tivoli-20757441/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759757647153.jpg",
+            "price": 26.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:01:00+02:00",
+                    "location": {
+                        "name": "Dvorana Tivoli",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.4954129,
+                            "latitude": 46.0599169
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "HK Olimpija Ljubljana"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Hokej na ledu",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 2,
+                "average": 5.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20250875",
+            "productGroupId": "3898892",
+            "name": "Moška Pamet",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/moska-pamet-levstikov-dom-20250875/",
+            "url": {
+                "path": "/event/moska-pamet-levstikov-dom-20250875/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1747212222361.jpg",
+            "price": 20.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:30:00+02:00",
+                    "location": {
+                        "name": "Levstikov dom",
+                        "city": "Velike Lašče",
+                        "postalCode": "1315",
+                        "geoLocation": {
+                            "longitude": 14.6362363,
+                            "latitude": 45.843659
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Moška pamet"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20694876",
+            "productGroupId": "3976046",
+            "name": "Razočarana gospodinja pri seksologu",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/razocarana-gospodinja-pri-seksologu-hotel-smuk-semic-20694876/",
+            "url": {
+                "path": "/event/razocarana-gospodinja-pri-seksologu-hotel-smuk-semic-20694876/",
+                "domain": "https://www.eventim.si"
+            },
+            "price": 18.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:30:00+02:00",
+                    "location": {
+                        "name": "HOTEL SMUK SEMIČ",
+                        "city": "Semič",
+                        "postalCode": "8333"
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Razočarana gospodinja pri seksologu"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Komedija",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20758461",
+            "productGroupId": "3997604",
+            "name": "Živela Slovenka",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/zivela-slovenka-ilirska-bistrica-dom-na-vidmu-20758461/",
+            "url": {
+                "path": "/event/zivela-slovenka-ilirska-bistrica-dom-na-vidmu-20758461/",
+                "domain": "https://www.eventim.si"
+            },
+            "price": 18.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T19:30:00+02:00",
+                    "location": {
+                        "name": "DOM NA VIDMU",
+                        "city": "Ilirska Bistrica",
+                        "postalCode": "6250",
+                        "geoLocation": {
+                            "longitude": 14.2433194,
+                            "latitude": 45.5672272
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Živela Slovenka"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20409028",
+            "productGroupId": "3929213",
+            "name": "Budale",
+            "type": "LiveEntertainment",
+            "status": "SoldOut",
+            "link": "https://www.eventim.si/event/spas-teater-budale-kulturni-dom-menges-spas-teater-20409028/",
+            "url": {
+                "path": "/event/spas-teater-budale-kulturni-dom-menges-spas-teater-20409028/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1757492929403.jpg",
+            "inStock": false,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T20:00:00+02:00",
+                    "location": {
+                        "name": "Kulturni dom Mengeš - Špas Teater",
+                        "city": "Mengeš",
+                        "postalCode": "1234",
+                        "geoLocation": {
+                            "longitude": 14.5709457,
+                            "latitude": 46.1653247
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Špas Teater"
+                },
+                {
+                    "name": "Budale"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Komedija",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20193896",
+            "productGroupId": "3889350",
+            "name": "Prljavo Kazalište",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/prljavo-kazaliste-ljubljana-dvorana-stozice-20193896/",
+            "url": {
+                "path": "/event/prljavo-kazaliste-ljubljana-dvorana-stozice-20193896/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/prljavokazaliste_ljubljana_222_222px.png",
+            "price": 27.90,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-10T20:00:00+02:00",
+                    "location": {
+                        "name": "Dvorana Stožice",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.5207947,
+                            "latitude": 46.0811881
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Prljavo kazalište"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Glasba"
+                },
+                {
+                    "name": "Rock & pop",
+                    "parentCategory": {
+                        "name": "Glasba"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20620555",
+            "productGroupId": "3970509",
+            "name": "Drift Stars finale - Logatec, kvalifikacije",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/drift-stars-logatec-blagomix-center-varne-voznje-logatec-20620555/",
+            "url": {
+                "path": "/event/drift-stars-logatec-blagomix-center-varne-voznje-logatec-20620555/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1756889230493.jpg",
+            "price": 8.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T10:00:00+02:00",
+                    "location": {
+                        "name": "Blagomix - Center varne vožnje Logatec",
+                        "city": "Logatec",
+                        "postalCode": "1370",
+                        "geoLocation": {
+                            "longitude": 14.24377879818996,
+                            "latitude": 45.93644871556849
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Drift Stars"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Športne prireditve",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20620608",
+            "productGroupId": "3970509",
+            "name": "Drift Stars finale - Logatec, 11. 10. - Kvalifikacije, 12. 10. - Dirka",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/drift-stars-logatec-blagomix-center-varne-voznje-logatec-20620608/",
+            "url": {
+                "path": "/event/drift-stars-logatec-blagomix-center-varne-voznje-logatec-20620608/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1756889230493.jpg",
+            "price": 21.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T10:01:00+02:00",
+                    "endDate": "2025-10-12T23:59:00+02:00",
+                    "location": {
+                        "name": "Blagomix - Center varne vožnje Logatec",
+                        "city": "Logatec",
+                        "postalCode": "1370",
+                        "geoLocation": {
+                            "longitude": 14.24377879818996,
+                            "latitude": 45.93644871556849
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Drift Stars"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Športne prireditve",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20632566",
+            "productGroupId": "3938352",
+            "name": "Janko in Metka",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/janko-in-metka-mini-teater-20632566/",
+            "url": {
+                "path": "/event/janko-in-metka-mini-teater-20632566/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1752489568594.jpg",
+            "price": 9.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T11:00:00+02:00",
+                    "location": {
+                        "name": "MINI TEATER",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.5041925,
+                            "latitude": 46.0465932
+                        }
+                    }
+                }
+            },
+            "categories": [
+                {
+                    "name": "Družina"
+                },
+                {
+                    "name": "Otroški dogodki",
+                    "parentCategory": {
+                        "name": "Družina"
+                    }
+                }
+            ],
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20633572",
+            "productGroupId": "3856422",
+            "name": "Ženske brez filtra",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/zenske-brez-filtra-dom-kulture-kamnik-20633572/",
+            "url": {
+                "path": "/event/zenske-brez-filtra-dom-kulture-kamnik-20633572/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1753100906066.jpg",
+            "price": 26.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T17:30:00+02:00",
+                    "location": {
+                        "name": "Dom kulture Kamnik",
+                        "city": "Kamnik",
+                        "postalCode": "1241",
+                        "geoLocation": {
+                            "longitude": 14.6093454,
+                            "latitude": 46.2307921
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Ženske brez filtra"
+                },
+                {
+                    "name": "Popup Teater"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20733405",
+            "productGroupId": "3968394",
+            "name": "Živela Slovenka",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/zivela-slovenka-kulturni-dom-radomlje-20733405/",
+            "url": {
+                "path": "/event/zivela-slovenka-kulturni-dom-radomlje-20733405/",
+                "domain": "https://www.eventim.si"
+            },
+            "price": 18.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T19:00:00+02:00",
+                    "location": {
+                        "name": "Kulturni dom Radomlje",
+                        "city": "Radomlje",
+                        "postalCode": "1235",
+                        "geoLocation": {
+                            "longitude": 14.6107596,
+                            "latitude": 46.1771722
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Živela Slovenka"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20409295",
+            "productGroupId": "3929213",
+            "name": "Budale",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/spas-teater-budale-primskovo-20409295/",
+            "url": {
+                "path": "/event/spas-teater-budale-primskovo-20409295/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1757492929403.jpg",
+            "price": 26.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T19:00:00+02:00",
+                    "location": {
+                        "name": "Primskovo",
+                        "city": "Kranj",
+                        "postalCode": "4000",
+                        "geoLocation": {
+                            "longitude": 14.3685207,
+                            "latitude": 46.2472816
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Špas Teater"
+                },
+                {
+                    "name": "Budale"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Komedija",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20733200",
+            "productGroupId": "3993287",
+            "name": "Slovenska vicoteka",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/slovenska-vicoteka-kulturno-upravni-center-vuzenica-20733200/",
+            "url": {
+                "path": "/event/slovenska-vicoteka-kulturno-upravni-center-vuzenica-20733200/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759220970824.jpg",
+            "price": 16.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T19:00:00+02:00",
+                    "location": {
+                        "name": "Kulturno upravni center Vuzenica",
+                        "city": "Vuzenica",
+                        "postalCode": "2367",
+                        "geoLocation": {
+                            "longitude": 15.162481,
+                            "latitude": 46.5967153
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Slovenska vicoteka"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20634064",
+            "productGroupId": "3974296",
+            "name": "Adi Smolar",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/adi-smolar-dom-kulture-radece-20634064/",
+            "url": {
+                "path": "/event/adi-smolar-dom-kulture-radece-20634064/",
+                "domain": "https://www.eventim.si"
+            },
+            "price": 19.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T19:00:00+02:00",
+                    "location": {
+                        "name": "Dom kulture Radeče",
+                        "city": "Radeče",
+                        "postalCode": "1433",
+                        "geoLocation": {
+                            "longitude": 15.18231444449851,
+                            "latitude": 46.06582433943156
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Adi Smolar"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20251001",
+            "productGroupId": "3898892",
+            "name": "Moška Pamet",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/moska-pamet-kulturni-dom-notranje-gorice-20251001/",
+            "url": {
+                "path": "/event/moska-pamet-kulturni-dom-notranje-gorice-20251001/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1747212222361.jpg",
+            "price": 20.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T19:30:00+02:00",
+                    "location": {
+                        "name": "KULTURNI DOM NOTRANJE GORICE",
+                        "city": "Notranje Gorice",
+                        "postalCode": "1357",
+                        "geoLocation": {
+                            "longitude": 14.40279879819302,
+                            "latitude": 45.98964236529014
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Moška pamet"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20667795",
+            "productGroupId": "3980521",
+            "name": "IGLU+: Bio, improvizrana biografija",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/iglu-bio-improvizrana-biografija-pionirski-teater-20667795/",
+            "url": {
+                "path": "/event/iglu-bio-improvizrana-biografija-pionirski-teater-20667795/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1758288719709.jpg",
+            "price": 13.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T19:30:00+02:00",
+                    "location": {
+                        "name": "Pionirski teater",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.50778163271528,
+                            "latitude": 46.05575190923492
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Iglu"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20758093",
+            "productGroupId": "3993078",
+            "name": "Gledališki festival Senovo",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/gledaliski-festival-senovo-dom-xiv-divizije-senovo-20758093/",
+            "url": {
+                "path": "/event/gledaliski-festival-senovo-dom-xiv-divizije-senovo-20758093/",
+                "domain": "https://www.eventim.si"
+            },
+            "price": 29.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T19:30:00+02:00",
+                    "endDate": "2025-10-15T23:59:00+02:00",
+                    "location": {
+                        "name": "Dom XIV. divizije Senovo",
+                        "city": "Senovo",
+                        "postalCode": "8281",
+                        "geoLocation": {
+                            "longitude": 15.4755857754544,
+                            "latitude": 46.02101677437129
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Gledališki festival Senovo"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20694853",
+            "productGroupId": "3976046",
+            "name": "Razočarana gospodinja pri seksologu",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/razocarana-gospodinja-pri-seksologu-kulturni-dom-metlika-20694853/",
+            "url": {
+                "path": "/event/razocarana-gospodinja-pri-seksologu-kulturni-dom-metlika-20694853/",
+                "domain": "https://www.eventim.si"
+            },
+            "price": 18.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T19:30:00+02:00",
+                    "location": {
+                        "name": "Kulturni dom Metlika",
+                        "city": "Metlika",
+                        "postalCode": "8330"
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Razočarana gospodinja pri seksologu"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Komedija",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20592199",
+            "productGroupId": "3964738",
+            "name": "Dej bol' na glas! - Šank Rock & Pihalni orkester Šentjur",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/sank-rock-dej-bol-na-glas-sportna-dvorana-sentjur-20592199/",
+            "url": {
+                "path": "/event/sank-rock-dej-bol-na-glas-sportna-dvorana-sentjur-20592199/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1756213989524.jpg",
+            "price": 29.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T20:00:00+02:00",
+                    "location": {
+                        "name": "Športna dvorana Šentjur",
+                        "city": "Šentjur",
+                        "postalCode": "3230"
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Šank Rock"
+                },
+                {
+                    "name": "Dej bol' na glas!"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Glasba"
+                },
+                {
+                    "name": "Rock & pop",
+                    "parentCategory": {
+                        "name": "Glasba"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20472588",
+            "productGroupId": "3856422",
+            "name": "Ženske brez filtra",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/zenske-brez-filtra-dom-kulture-kamnik-20472588/",
+            "url": {
+                "path": "/event/zenske-brez-filtra-dom-kulture-kamnik-20472588/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1753100906066.jpg",
+            "inStock": false,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T20:00:00+02:00",
+                    "location": {
+                        "name": "Dom kulture Kamnik",
+                        "city": "Kamnik",
+                        "postalCode": "1241",
+                        "geoLocation": {
+                            "longitude": 14.6093454,
+                            "latitude": 46.2307921
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Ženske brez filtra"
+                },
+                {
+                    "name": "Popup Teater"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20370227",
+            "productGroupId": "3921985",
+            "name": "Laibach",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/laibach-velenje-dom-kulture-velenje-20370227/",
+            "url": {
+                "path": "/event/laibach-velenje-dom-kulture-velenje-20370227/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1750235349642.jpg",
+            "inStock": false,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T20:00:00+02:00",
+                    "location": {
+                        "name": "Dom kulture Velenje",
+                        "city": "Velenje",
+                        "postalCode": "3320",
+                        "geoLocation": {
+                            "longitude": 15.1147653,
+                            "latitude": 46.3597936
+                        }
+                    }
+                }
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20708822",
+            "productGroupId": "3989561",
+            "name": "Pesem si podajava...Koncert Elde Viler in Ane Dežman",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/elda-viler-pesem-si-podajava-koncert-elde-viler-in-ane-dezman-kulturno-prosvetni-dom-vlada-pipana-sentilj-20708822/",
+            "url": {
+                "path": "/event/elda-viler-pesem-si-podajava-koncert-elde-viler-in-ane-dezman-kulturno-prosvetni-dom-vlada-pipana-sentilj-20708822/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1758717421385.jpg",
+            "price": 17.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-11T20:00:00+02:00",
+                    "location": {
+                        "name": "Kulturno prosvetni dom Vlada Pipana, Šentilj",
+                        "city": "Šentilj",
+                        "postalCode": "2212",
+                        "geoLocation": {
+                            "longitude": 15.65451998104131,
+                            "latitude": 46.67807811379549
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Elda Viler"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Ostalo",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20620556",
+            "productGroupId": "3970509",
+            "name": "Drift Stars finale - Logatec, dirka",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/drift-stars-logatec-blagomix-center-varne-voznje-logatec-20620556/",
+            "url": {
+                "path": "/event/drift-stars-logatec-blagomix-center-varne-voznje-logatec-20620556/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1756889230493.jpg",
+            "price": 16.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-12T10:00:00+02:00",
+                    "location": {
+                        "name": "Blagomix - Center varne vožnje Logatec",
+                        "city": "Logatec",
+                        "postalCode": "1370",
+                        "geoLocation": {
+                            "longitude": 14.24377879818996,
+                            "latitude": 45.93644871556849
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Drift Stars"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Športne prireditve",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20632584",
+            "productGroupId": "3938352",
+            "name": "Janko in Metka",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/janko-in-metka-mini-teater-20632584/",
+            "url": {
+                "path": "/event/janko-in-metka-mini-teater-20632584/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1752489568594.jpg",
+            "price": 9.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-12T11:00:00+02:00",
+                    "location": {
+                        "name": "MINI TEATER",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.5041925,
+                            "latitude": 46.0465932
+                        }
+                    }
+                }
+            },
+            "categories": [
+                {
+                    "name": "Družina"
+                },
+                {
+                    "name": "Otroški dogodki",
+                    "parentCategory": {
+                        "name": "Družina"
+                    }
+                }
+            ],
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20648443",
+            "productGroupId": "3856422",
+            "name": "Ženske brez filtra",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/zenske-brez-filtra-kulturni-dom-cerknica-20648443/",
+            "url": {
+                "path": "/event/zenske-brez-filtra-kulturni-dom-cerknica-20648443/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1753100906066.jpg",
+            "price": 24.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-12T17:00:00+02:00",
+                    "location": {
+                        "name": "Kulturni dom Cerknica",
+                        "city": "Cerknica",
+                        "postalCode": "1380",
+                        "geoLocation": {
+                            "longitude": 14.3614989,
+                            "latitude": 45.7939922
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Ženske brez filtra"
+                },
+                {
+                    "name": "Popup Teater"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20569422",
+            "productGroupId": "3991869",
+            "name": "Olimpija Ljubljana : HC TIWAG Innsbruck - Die Haie",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/hk-olimpija-ljubljana-olimpija-ljubljana-hc-tiwag-innsbruck-die-haie-dvorana-tivoli-20569422/",
+            "url": {
+                "path": "/event/hk-olimpija-ljubljana-olimpija-ljubljana-hc-tiwag-innsbruck-die-haie-dvorana-tivoli-20569422/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1754295826620.jpg",
+            "price": 18.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-12T17:45:00+02:00",
+                    "location": {
+                        "name": "Dvorana Tivoli",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.4954129,
+                            "latitude": 46.0599169
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "HK Olimpija Ljubljana"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Hokej na ledu",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 2,
+                "average": 5.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20733263",
+            "productGroupId": "3993354",
+            "name": "50 odtenkov ženske",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/50-odtenkov-zenske-center-zalog-20733263/",
+            "url": {
+                "path": "/event/50-odtenkov-zenske-center-zalog-20733263/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759220812032.jpg",
+            "price": 18.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-12T18:00:00+02:00",
+                    "location": {
+                        "name": "Center Zalog",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.61397148285465,
+                            "latitude": 46.061191031788795
+                        }
+                    }
+                }
+            },
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20464207",
+            "productGroupId": "3938950",
+            "name": "Pasja komedija, Jesenice",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/pasja-komedija-gledalisce-toneta-cufarja-20464207/",
+            "url": {
+                "path": "/event/pasja-komedija-gledalisce-toneta-cufarja-20464207/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1756801509639.jpg",
+            "price": 23.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-12T19:00:00+02:00",
+                    "location": {
+                        "name": "Gledališče Toneta Čufarja",
+                        "city": "Jesenice",
+                        "postalCode": "4270",
+                        "geoLocation": {
+                            "longitude": 14.061706,
+                            "latitude": 46.435104
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Pasja komedija"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20469049",
+            "productGroupId": "3941719",
+            "name": "Alpski Ranko, Novo Mesto",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/alpski-ranko-kulturni-center-janeza-trdine-20469049/",
+            "url": {
+                "path": "/event/alpski-ranko-kulturni-center-janeza-trdine-20469049/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1752657789373.jpg",
+            "price": 24.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-12T19:00:00+02:00",
+                    "location": {
+                        "name": "Kulturni center Janeza Trdine",
+                        "city": "Novo Mesto",
+                        "postalCode": "8000",
+                        "geoLocation": {
+                            "longitude": 15.16321,
+                            "latitude": 45.804411
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Alpski Ranko"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Komedija",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20472902",
+            "productGroupId": "3856422",
+            "name": "Ženske brez filtra",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/zenske-brez-filtra-kulturni-dom-cerknica-20472902/",
+            "url": {
+                "path": "/event/zenske-brez-filtra-kulturni-dom-cerknica-20472902/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1753100906066.jpg",
+            "price": 24.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-12T20:00:00+02:00",
+                    "location": {
+                        "name": "Kulturni dom Cerknica",
+                        "city": "Cerknica",
+                        "postalCode": "1380",
+                        "geoLocation": {
+                            "longitude": 14.3614989,
+                            "latitude": 45.7939922
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Ženske brez filtra"
+                },
+                {
+                    "name": "Popup Teater"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20715961",
+            "productGroupId": "3990981",
+            "name": "Sandra Siladjev: Astroklikeri",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/sandra-siladjev-astroklikeri-festivalna-dvorana-ljubljana-20715961/",
+            "url": {
+                "path": "/event/sandra-siladjev-astroklikeri-festivalna-dvorana-ljubljana-20715961/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1758807740483.jpg",
+            "price": 30.90,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-13T20:00:00+02:00",
+                    "location": {
+                        "name": "Festivalna dvorana Ljubljana",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.5097179,
+                            "latitude": 46.071027
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Sandra Siladjev"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Ostalo",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20618212",
+            "productGroupId": "3969894",
+            "name": "Slovenija – Švica, nogomet",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/slovenija-svica-nogomet-stadion-stozice-20618212/",
+            "url": {
+                "path": "/event/slovenija-svica-nogomet-stadion-stozice-20618212/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1756798286706.jpg",
+            "price": 26.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-13T20:45:00+02:00",
+                    "location": {
+                        "name": "Stadion Stožice",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.524239762061649,
+                            "latitude": 46.08048895442353
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Nogometna zveza Slovenije"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Nogomet",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 2,
+                "average": 5.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20676257",
+            "productGroupId": "3983012",
+            "name": "Slovenija - Bosna in Hercegovina, U21 | podporniki bosanske reprezentance",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/slovenija-bosna-in-hercegovina-u21-stadion-bonifika-20676257/",
+            "url": {
+                "path": "/event/slovenija-bosna-in-hercegovina-u21-stadion-bonifika-20676257/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759153757247.jpg",
+            "price": 9.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-14T18:00:00+02:00",
+                    "location": {
+                        "name": "Stadion Bonifika",
+                        "city": "Koper",
+                        "postalCode": "6000",
+                        "geoLocation": {
+                            "longitude": 13.7321774,
+                            "latitude": 45.550866
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Nogometna zveza Slovenije"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Nogomet",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 2,
+                "average": 5.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20676251",
+            "productGroupId": "3983012",
+            "name": "Slovenija - Bosna in Hercegovina, U21 | podporniki slovenske reprezentance",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/nogometna-zveza-slovenije-slovenija-bosna-in-hercegovina-u21-stadion-bonifika-20676251/",
+            "url": {
+                "path": "/event/nogometna-zveza-slovenije-slovenija-bosna-in-hercegovina-u21-stadion-bonifika-20676251/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759153757247.jpg",
+            "price": 9.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-14T18:00:00+02:00",
+                    "location": {
+                        "name": "Stadion Bonifika",
+                        "city": "Koper",
+                        "postalCode": "6000",
+                        "geoLocation": {
+                            "longitude": 13.7321774,
+                            "latitude": 45.550866
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Nogometna zveza Slovenije"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Nogomet",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 2,
+                "average": 5.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20687936",
+            "productGroupId": "3993261",
+            "name": "Cedevita Olimpija : Aris Midea Thessaloniki",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/cedevita-olimpija-aris-midea-thessaloniki-dvorana-stozice-20687936/",
+            "url": {
+                "path": "/event/cedevita-olimpija-aris-midea-thessaloniki-dvorana-stozice-20687936/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1759152652137.jpg",
+            "price": 13.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-14T18:30:00+02:00",
+                    "location": {
+                        "name": "Dvorana Stožice",
+                        "city": "Ljubljana",
+                        "postalCode": "1000",
+                        "geoLocation": {
+                            "longitude": 14.5207947,
+                            "latitude": 46.0811881
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "KK Cedevita Olimpija"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Športne prireditve",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                },
+                {
+                    "name": "Šport"
+                },
+                {
+                    "name": "Košarka",
+                    "parentCategory": {
+                        "name": "Šport"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "MOBILE_TICKET",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20457233",
+            "productGroupId": "3937123",
+            "name": "Penziči",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/penzici-dom-kulture-kamnik-20457233/",
+            "url": {
+                "path": "/event/penzici-dom-kulture-kamnik-20457233/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1754555869262.jpg",
+            "price": 23.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-14T19:00:00+02:00",
+                    "location": {
+                        "name": "Dom kulture Kamnik",
+                        "city": "Kamnik",
+                        "postalCode": "1241",
+                        "geoLocation": {
+                            "longitude": 14.6093454,
+                            "latitude": 46.2307921
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Penziči"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20628299",
+            "productGroupId": "3970355",
+            "name": "Brata",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/brata-rudniska-dvorana-20628299/",
+            "url": {
+                "path": "/event/brata-rudniska-dvorana-20628299/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1757078284207.jpg",
+            "price": 25.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-14T19:00:00+02:00",
+                    "location": {
+                        "name": "RUDNIŠKA DVORANA",
+                        "city": "Idrija",
+                        "postalCode": "5280",
+                        "geoLocation": {
+                            "longitude": 14.0295749,
+                            "latitude": 46.0017171
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Brata"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Ostalo",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20469048",
+            "productGroupId": "3941719",
+            "name": "Alpski Ranko, Slovenska Bistrica",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/alpski-ranko-slomskov-kulturni-dom-slovenska-bistrica-20469048/",
+            "url": {
+                "path": "/event/alpski-ranko-slomskov-kulturni-dom-slovenska-bistrica-20469048/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1752657789373.jpg",
+            "price": 24.00,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-14T19:00:00+02:00",
+                    "location": {
+                        "name": "Slomškov kulturni dom Slovenska Bistrica",
+                        "city": "Slovenska Bistrica",
+                        "postalCode": "2310",
+                        "geoLocation": {
+                            "longitude": 15.5746299,
+                            "latitude": 46.3954164
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Alpski Ranko"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Komedija",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20409112",
+            "productGroupId": "3929213",
+            "name": "Budale",
+            "type": "LiveEntertainment",
+            "status": "SoldOut",
+            "link": "https://www.eventim.si/event/spas-teater-budale-avditorij-portoroz-20409112/",
+            "url": {
+                "path": "/event/spas-teater-budale-avditorij-portoroz-20409112/",
+                "domain": "https://www.eventim.si"
+            },
+            "imageUrl": "https://www.eventim.si/obj/media/SI-eventim/teaser/222x222_SI/2025/image_1757492929403.jpg",
+            "inStock": false,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-14T20:00:00+02:00",
+                    "location": {
+                        "name": "Avditorij Portorož",
+                        "city": "Portorož",
+                        "postalCode": "6320",
+                        "geoLocation": {
+                            "longitude": 13.596939,
+                            "latitude": 45.515125
+                        }
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Špas Teater"
+                },
+                {
+                    "name": "Budale"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Dodatno"
+                },
+                {
+                    "name": "Komedija",
+                    "parentCategory": {
+                        "name": "Dodatno"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "WILL_CALL"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20758170",
+            "productGroupId": "3997597",
+            "name": "Predstava: Sve zbog jednog imena @ Zadar",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/predstava-sve-zbog-jednog-imena-hrvatsko-narodno-kazaliste-zadar-20758170/",
+            "url": {
+                "path": "/event/predstava-sve-zbog-jednog-imena-hrvatsko-narodno-kazaliste-zadar-20758170/",
+                "domain": "https://www.eventim.si"
+            },
+            "price": 15.50,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-14T20:00:00+02:00",
+                    "location": {
+                        "name": "Hrvatsko narodno kazalište Zadar",
+                        "city": "Zadar",
+                        "postalCode": "23000"
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Predstava: Sve Zbog Jednog Imena"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Kultura"
+                },
+                {
+                    "name": "Gledališče",
+                    "parentCategory": {
+                        "name": "Kultura"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT"
+            ],
+            "hasRecommendation": false
+        },
+        {
+            "productId": "20623360",
+            "productGroupId": "3971206",
+            "name": "Arch Enemy",
+            "type": "LiveEntertainment",
+            "status": "Available",
+            "link": "https://www.eventim.si/event/arch-enemy-raiffeisen-halle-im-gasometer-20623360/",
+            "url": {
+                "path": "/event/arch-enemy-raiffeisen-halle-im-gasometer-20623360/",
+                "domain": "https://www.eventim.si"
+            },
+            "price": 59.99,
+            "currency": "EUR",
+            "inStock": true,
+            "typeAttributes": {
+                "liveEntertainment": {
+                    "startDate": "2025-10-15T18:00:00+02:00",
+                    "location": {
+                        "name": "Raiffeisen Halle im Gasometer",
+                        "city": "Wien",
+                        "postalCode": "1110"
+                    }
+                }
+            },
+            "attractions": [
+                {
+                    "name": "Arch Enemy"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Glasba"
+                },
+                {
+                    "name": "Metal",
+                    "parentCategory": {
+                        "name": "Glasba"
+                    }
+                }
+            ],
+            "rating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "tags": [
+                "TICKETDIRECT",
+                "FANTICKET"
+            ],
+            "hasRecommendation": false
+        }
+    ],
+    "facets": [
+        {
+            "name": "cities",
+            "facetItems": [
+                {
+                    "value": "Ljubljana",
+                    "count": 176,
+                    "info": "ljubljana-5738"
+                },
+                {
+                    "value": "Wien",
+                    "count": 53
+                },
+                {
+                    "value": "Zagreb",
+                    "count": 32,
+                    "info": "zagreb-5737"
+                },
+                {
+                    "value": "Maribor",
+                    "count": 29,
+                    "info": "maribor-5754"
+                },
+                {
+                    "value": "Kranj",
+                    "count": 27,
+                    "info": "kranj-5753"
+                },
+                {
+                    "value": "Mengeš",
+                    "count": 20,
+                    "info": "menges-5764"
+                },
+                {
+                    "value": "Škofja Loka",
+                    "count": 16,
+                    "info": "skofja-loka-5777"
+                },
+                {
+                    "value": "Koper",
+                    "count": 14,
+                    "info": "koper-5743"
+                },
+                {
+                    "value": "Kranjska Gora",
+                    "count": 11,
+                    "info": "kranjska-gora-5774"
+                },
+                {
+                    "value": "Nova Gorica",
+                    "count": 9,
+                    "info": "nova-gorica-5773"
+                },
+                {
+                    "value": "Celje",
+                    "count": 8,
+                    "info": "celje-5746"
+                },
+                {
+                    "value": "Velenje",
+                    "count": 8,
+                    "info": "velenje-5769"
+                },
+                {
+                    "value": "Krško",
+                    "count": 7,
+                    "info": "krsko-5767"
+                },
+                {
+                    "value": "Portorož",
+                    "count": 7,
+                    "info": "portoroz-5739"
+                },
+                {
+                    "value": "Rateče",
+                    "count": 7,
+                    "info": "ratece-5756"
+                },
+                {
+                    "value": "Ajdovščina",
+                    "count": 6,
+                    "info": "ajdovscina-5794"
+                },
+                {
+                    "value": "Bled",
+                    "count": 6,
+                    "info": "bled-5766"
+                },
+                {
+                    "value": "Novo Mesto",
+                    "count": 6,
+                    "info": "novo-mesto-5763"
+                },
+                {
+                    "value": "Brežice",
+                    "count": 5,
+                    "info": "brezice-5804"
+                },
+                {
+                    "value": "Graz",
+                    "count": 5
+                },
+                {
+                    "value": "Kostanjevica na Krki",
+                    "count": 5,
+                    "info": "kostanjevica-na-krki-5778"
+                },
+                {
+                    "value": "Logatec",
+                    "count": 5,
+                    "info": "logatec-5729"
+                },
+                {
+                    "value": "Postojna",
+                    "count": 5,
+                    "info": "postojna-5790"
+                },
+                {
+                    "value": "Slovenske Konjice",
+                    "count": 5,
+                    "info": "slovenske-konjice-5811"
+                },
+                {
+                    "value": "Tržič",
+                    "count": 5,
+                    "info": "trzic-5841"
+                },
+                {
+                    "value": "Vrhnika",
+                    "count": 5,
+                    "info": "vrhnika-5780"
+                },
+                {
+                    "value": "Žalec",
+                    "count": 5,
+                    "info": "zalec-5768"
+                },
+                {
+                    "value": "Begunje na Gorenjskem",
+                    "count": 4,
+                    "info": "begunje-na-gorenjskem-5846"
+                },
+                {
+                    "value": "Cerknica",
+                    "count": 4,
+                    "info": "cerknica-5843"
+                },
+                {
+                    "value": "Idrija",
+                    "count": 4,
+                    "info": "idrija-5849"
+                },
+                {
+                    "value": "Linz",
+                    "count": 4
+                },
+                {
+                    "value": "Ljutomer",
+                    "count": 4,
+                    "info": "ljutomer-5725"
+                },
+                {
+                    "value": "Murska Sobota",
+                    "count": 4,
+                    "info": "murska-sobota-5765"
+                },
+                {
+                    "value": "Prevalje",
+                    "count": 4,
+                    "info": "prevalje-5785"
+                },
+                {
+                    "value": "Ptuj",
+                    "count": 4,
+                    "info": "ptuj-5762"
+                },
+                {
+                    "value": "Semič",
+                    "count": 4,
+                    "info": "semic-5813"
+                },
+                {
+                    "value": "Sežana",
+                    "count": 4,
+                    "info": "sezana-5818"
+                },
+                {
+                    "value": "Slovenska Bistrica",
+                    "count": 4,
+                    "info": "slovenska-bistrica-5840"
+                },
+                {
+                    "value": "Trieste",
+                    "count": 4
+                },
+                {
+                    "value": "Šentjur",
+                    "count": 4,
+                    "info": "sentjur-5728"
+                },
+                {
+                    "value": "Ilirska Bistrica",
+                    "count": 3,
+                    "info": "ilirska-bistrica-5808"
+                },
+                {
+                    "value": "Jesenice",
+                    "count": 3,
+                    "info": "jesenice-5779"
+                },
+                {
+                    "value": "Kamnik",
+                    "count": 3,
+                    "info": "kamnik-5814"
+                },
+                {
+                    "value": "Laško",
+                    "count": 3,
+                    "info": "lasko-5819"
+                },
+                {
+                    "value": "Litija",
+                    "count": 3,
+                    "info": "litija-5825"
+                },
+                {
+                    "value": "Nickelsdorf",
+                    "count": 3
+                },
+                {
+                    "value": "Ormož",
+                    "count": 3,
+                    "info": "ormoz-5854"
+                },
+                {
+                    "value": "Sevnica",
+                    "count": 3,
+                    "info": "sevnica-5787"
+                },
+                {
+                    "value": "St. Pölten",
+                    "count": 3
+                },
+                {
+                    "value": "Trebnje",
+                    "count": 3,
+                    "info": "trebnje-5731"
+                },
+                {
+                    "value": "Šmarje pri Jelšah",
+                    "count": 3,
+                    "info": "smarje-pri-jelsah-5827"
+                },
+                {
+                    "value": "Šoštanj",
+                    "count": 3,
+                    "info": "sostanj-5829"
+                },
+                {
+                    "value": "Cerklje na Gorenjskem",
+                    "count": 2,
+                    "info": "cerklje-na-gorenjskem-5798"
+                },
+                {
+                    "value": "Dobrova",
+                    "count": 2,
+                    "info": "dobrova-5815"
+                },
+                {
+                    "value": "Domžale",
+                    "count": 2,
+                    "info": "domzale-5734"
+                },
+                {
+                    "value": "Dravograd",
+                    "count": 2,
+                    "info": "dravograd-5793"
+                },
+                {
+                    "value": "Eisenstadt",
+                    "count": 2
+                },
+                {
+                    "value": "Gornja Radgona",
+                    "count": 2,
+                    "info": "gornja-radgona-5760"
+                },
+                {
+                    "value": "Grosuplje",
+                    "count": 2,
+                    "info": "grosuplje-5784"
+                },
+                {
+                    "value": "Kočevje",
+                    "count": 2,
+                    "info": "kocevje-5832"
+                },
+                {
+                    "value": "Lenart v Slov. Goricah",
+                    "count": 2,
+                    "info": "lenart-v-slov-goricah-5823"
+                },
+                {
+                    "value": "Ljubljana-Šentvid",
+                    "count": 2,
+                    "info": "ljubljana-sentvid-5887"
+                },
+                {
+                    "value": "Ljubno ob Savinji",
+                    "count": 2,
+                    "info": "ljubno-ob-savinji-5806"
+                },
+                {
+                    "value": "Medvode",
+                    "count": 2,
+                    "info": "medvode-5759"
+                },
+                {
+                    "value": "Metlika",
+                    "count": 2,
+                    "info": "metlika-5908"
+                },
+                {
+                    "value": "Nazarje",
+                    "count": 2,
+                    "info": "nazarje-5970"
+                },
+                {
+                    "value": "Notranje Gorice",
+                    "count": 2,
+                    "info": "notranje-gorice-5852"
+                },
+                {
+                    "value": "Oplotnica",
+                    "count": 2,
+                    "info": "oplotnica-5837"
+                },
+                {
+                    "value": "Pivka",
+                    "count": 2,
+                    "info": "pivka-5836"
+                },
+                {
+                    "value": "Rače",
+                    "count": 2,
+                    "info": "race-5800"
+                },
+                {
+                    "value": "Rogaška Slatina",
+                    "count": 2,
+                    "info": "rogaska-slatina-5786"
+                },
+                {
+                    "value": "Split",
+                    "count": 2
+                },
+                {
+                    "value": "Tolmin",
+                    "count": 2,
+                    "info": "tolmin-5839"
+                },
+                {
+                    "value": "Trbovlje",
+                    "count": 2,
+                    "info": "trbovlje-5791"
+                },
+                {
+                    "value": "Velike Lašče",
+                    "count": 2,
+                    "info": "velike-lasce-5853"
+                },
+                {
+                    "value": "Vitanje",
+                    "count": 2,
+                    "info": "vitanje-5845"
+                },
+                {
+                    "value": "Vojnik",
+                    "count": 2,
+                    "info": "vojnik-5842"
+                },
+                {
+                    "value": "Vransko",
+                    "count": 2,
+                    "info": "vransko-5812"
+                },
+                {
+                    "value": "Zagorje ob Savi",
+                    "count": 2,
+                    "info": "zagorje-ob-savi-5752"
+                },
+                {
+                    "value": "Škocjan",
+                    "count": 2,
+                    "info": "skocjan-5899"
+                },
+                {
+                    "value": "Šmartno pri Litiji",
+                    "count": 2,
+                    "info": "smartno-pri-litiji-5771"
+                },
+                {
+                    "value": "Štore",
+                    "count": 2,
+                    "info": "store-5727"
+                },
+                {
+                    "value": "Beltinci",
+                    "count": 1,
+                    "info": "beltinci-5934"
+                },
+                {
+                    "value": "Benedikt",
+                    "count": 1,
+                    "info": "benedikt-5726"
+                },
+                {
+                    "value": "Bovec",
+                    "count": 1,
+                    "info": "bovec-5896"
+                },
+                {
+                    "value": "Braslovče",
+                    "count": 1,
+                    "info": "braslovce-5810"
+                },
+                {
+                    "value": "Dolenjske Toplice",
+                    "count": 1,
+                    "info": "dolenjske-toplice-5856"
+                },
+                {
+                    "value": "Fornebu",
+                    "count": 1
+                },
+                {
+                    "value": "Gorenja Vas",
+                    "count": 1,
+                    "info": "gorenja-vas-5831"
+                },
+                {
+                    "value": "Gorišnica",
+                    "count": 1,
+                    "info": "gorisnica-5888"
+                },
+                {
+                    "value": "Hrastnik",
+                    "count": 1,
+                    "info": "hrastnik-5751"
+                },
+                {
+                    "value": "Ig",
+                    "count": 1,
+                    "info": "ig-5848"
+                },
+                {
+                    "value": "Innsbruck",
+                    "count": 1
+                },
+                {
+                    "value": "Klam",
+                    "count": 1
+                },
+                {
+                    "value": "Koprivnica",
+                    "count": 1
+                },
+                {
+                    "value": "Krtina",
+                    "count": 1,
+                    "info": "krtina-5957"
+                },
+                {
+                    "value": "Limbuš",
+                    "count": 1,
+                    "info": "limbus-5805"
+                },
+                {
+                    "value": "Ljubljana-Črnuče",
+                    "count": 1,
+                    "info": "ljubljana-crnuce-5917"
+                },
+                {
+                    "value": "Ljubljana-Šmartno",
+                    "count": 1,
+                    "info": "ljubljana-smartno-5820"
+                },
+                {
+                    "value": "Loče",
+                    "count": 1,
+                    "info": "loce-5788"
+                },
+                {
+                    "value": "Markovci",
+                    "count": 1
+                },
+                {
+                    "value": "Mirna Peč",
+                    "count": 1,
+                    "info": "mirna-pec-5730"
+                },
+                {
+                    "value": "Moravske Toplice",
+                    "count": 1
+                },
+                {
+                    "value": "Moravče",
+                    "count": 1,
+                    "info": "moravce-5897"
+                },
+                {
+                    "value": "Mozirje",
+                    "count": 1,
+                    "info": "mozirje-5835"
+                },
+                {
+                    "value": "Nedelišće",
+                    "count": 1
+                },
+                {
+                    "value": "Podnart",
+                    "count": 1,
+                    "info": "podnart-5906"
+                },
+                {
+                    "value": "Podčetrtek",
+                    "count": 1,
+                    "info": "podcetrtek-5772"
+                },
+                {
+                    "value": "Poljčane",
+                    "count": 1,
+                    "info": "poljcane-5915"
+                },
+                {
+                    "value": "Prebold",
+                    "count": 1,
+                    "info": "prebold-5859"
+                },
+                {
+                    "value": "Prevoz",
+                    "count": 1
+                },
+                {
+                    "value": "Pula",
+                    "count": 1,
+                    "info": "pula-5757"
+                },
+                {
+                    "value": "Radeče",
+                    "count": 1,
+                    "info": "radece-5867"
+                },
+                {
+                    "value": "Radlje ob Dravi",
+                    "count": 1
+                },
+                {
+                    "value": "Radomlje",
+                    "count": 1,
+                    "info": "radomlje-5866"
+                },
+                {
+                    "value": "Radovljica",
+                    "count": 1,
+                    "info": "radovljica-5748"
+                },
+                {
+                    "value": "Ribnica",
+                    "count": 1,
+                    "info": "ribnica-5775"
+                },
+                {
+                    "value": "Rijeka",
+                    "count": 1
+                },
+                {
+                    "value": "Schladming",
+                    "count": 1
+                },
+                {
+                    "value": "Selnica ob Dravi",
+                    "count": 1,
+                    "info": "selnica-ob-dravi-5822"
+                },
+                {
+                    "value": "Senovo",
+                    "count": 1,
+                    "info": "senovo-5838"
+                },
+                {
+                    "value": "Spodnja Idrija",
+                    "count": 1
+                },
+                {
+                    "value": "Središče ob Dravi",
+                    "count": 1
+                },
+                {
+                    "value": "Varaždin",
+                    "count": 1
+                },
+                {
+                    "value": "Videm-Dobrepolje",
+                    "count": 1,
+                    "info": "videm-dobrepolje-5789"
+                },
+                {
+                    "value": "Vipava",
+                    "count": 1,
+                    "info": "vipava-5870"
+                },
+                {
+                    "value": "Vodice",
+                    "count": 1,
+                    "info": "vodice-5973"
+                },
+                {
+                    "value": "Vremski Britof",
+                    "count": 1
+                },
+                {
+                    "value": "Vuzenica",
+                    "count": 1,
+                    "info": "vuzenica-5945"
+                },
+                {
+                    "value": "Zadar",
+                    "count": 1
+                },
+                {
+                    "value": "Zgornja Korena",
+                    "count": 1,
+                    "info": "zgornja-korena-5950"
+                },
+                {
+                    "value": "Šentilj",
+                    "count": 1,
+                    "info": "sentilj-5807"
+                },
+                {
+                    "value": "Šentjanž pri Dravogradu",
+                    "count": 1
+                },
+                {
+                    "value": "Šentvid pri Stični",
+                    "count": 1,
+                    "info": "sentvid-pri-sticni-5873"
+                },
+                {
+                    "value": "Škofije",
+                    "count": 1,
+                    "info": "skofije-5886"
+                },
+                {
+                    "value": "Železniki",
+                    "count": 1,
+                    "info": "zelezniki-5861"
+                }
+            ]
+        },
+        {
+            "name": "productTypes",
+            "facetItems": [
+                {
+                    "value": "LiveEntertainment",
+                    "count": 693
+                }
+            ]
+        },
+        {
+            "name": "venues",
+            "facetItems": [
+                {
+                    "value": "ARENA ZAGREB",
+                    "count": 14
+                },
+                {
+                    "value": "ARTIKLI",
+                    "count": 1
+                },
+                {
+                    "value": "Arena",
+                    "count": 1
+                },
+                {
+                    "value": "Arena Bonifika Koper",
+                    "count": 2
+                },
+                {
+                    "value": "Arena Campus Sava Ptuj",
+                    "count": 1
+                },
+                {
+                    "value": "Arena Varaždin - Gradska sportska dvorana",
+                    "count": 1
+                },
+                {
+                    "value": "Arena Wien",
+                    "count": 1
+                },
+                {
+                    "value": "Arena Zagreb",
+                    "count": 1
+                },
+                {
+                    "value": "Aula Cafe",
+                    "count": 1
+                },
+                {
+                    "value": "Austria Trend Hotel",
+                    "count": 3
+                },
+                {
+                    "value": "Avditorij Portorož",
+                    "count": 6
+                },
+                {
+                    "value": "Blagomix - Center varne vožnje Logatec",
+                    "count": 3
+                },
+                {
+                    "value": "Boogaloo Club",
+                    "count": 3
+                },
+                {
+                    "value": "Boschtiz",
+                    "count": 1
+                },
+                {
+                    "value": "Boćarski dom",
+                    "count": 1
+                },
+                {
+                    "value": "Brucknerhaus / Großer Saal",
+                    "count": 1
+                },
+                {
+                    "value": "Burg Clam",
+                    "count": 1
+                },
+                {
+                    "value": "CANKARJEV DOM",
+                    "count": 16
+                },
+                {
+                    "value": "CILJNA ARENA PODKOREN",
+                    "count": 5
+                },
+                {
+                    "value": "Cankarjev dom na Vrhniki",
+                    "count": 5
+                },
+                {
+                    "value": "Celjski dom",
+                    "count": 4
+                },
+                {
+                    "value": "Center La Vie",
+                    "count": 5
+                },
+                {
+                    "value": "Center Noordung - KSEVT Vitanje",
+                    "count": 2
+                },
+                {
+                    "value": "Center Zalog",
+                    "count": 2
+                },
+                {
+                    "value": "Center kulture Španski borci",
+                    "count": 2
+                },
+                {
+                    "value": "Cerkev sv. Cirila in Metoda (Bežigrad)",
+                    "count": 1
+                },
+                {
+                    "value": "DOM KULTURE LJUTOMER",
+                    "count": 2
+                },
+                {
+                    "value": "DOM KULTURE ORMOŽ",
+                    "count": 3
+                },
+                {
+                    "value": "DOM KULTURE PEKRE",
+                    "count": 1
+                },
+                {
+                    "value": "DOM NA VIDMU",
+                    "count": 2
+                },
+                {
+                    "value": "DVORANA MESTNE ČETRTI NOVA VAS",
+                    "count": 1
+                },
+                {
+                    "value": "Delavski dom Hrastnik",
+                    "count": 1
+                },
+                {
+                    "value": "Delavski dom Trbovlje",
+                    "count": 1
+                },
+                {
+                    "value": "Delavski dom Zagorje ob Savi",
+                    "count": 2
+                },
+                {
+                    "value": "Diskoteka M3",
+                    "count": 1
+                },
+                {
+                    "value": "Dom II. slovenskega tabora Žalec",
+                    "count": 5
+                },
+                {
+                    "value": "Dom Svobode",
+                    "count": 2
+                },
+                {
+                    "value": "Dom XIV. divizije Senovo",
+                    "count": 1
+                },
+                {
+                    "value": "Dom borcev Šentjanž pri Dravogradu",
+                    "count": 1
+                },
+                {
+                    "value": "Dom kulture Braslovče",
+                    "count": 1
+                },
+                {
+                    "value": "Dom kulture Brežice",
+                    "count": 5
+                },
+                {
+                    "value": "Dom kulture Gornja Radgona",
+                    "count": 2
+                },
+                {
+                    "value": "Dom kulture Ig",
+                    "count": 1
+                },
+                {
+                    "value": "Dom kulture Kamnik",
+                    "count": 3
+                },
+                {
+                    "value": "Dom kulture Lenart",
+                    "count": 2
+                },
+                {
+                    "value": "Dom kulture Radeče",
+                    "count": 1
+                },
+                {
+                    "value": "Dom kulture Slovenske Konjice",
+                    "count": 5
+                },
+                {
+                    "value": "Dom kulture Velenje",
+                    "count": 5
+                },
+                {
+                    "value": "Družbeni dom Prevalje",
+                    "count": 4
+                },
+                {
+                    "value": "Dvorana Golovec Celje",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana Gripe",
+                    "count": 2
+                },
+                {
+                    "value": "Dvorana Komunalnega centra Domžale",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana Leona Štuklja Novo mesto",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana OŠ Karla Destovnika Kajuha Šoštanj",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana OŠ Koper",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana Prebold",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana Rudija Žnidariča",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana Stožice",
+                    "count": 19
+                },
+                {
+                    "value": "Dvorana Sv. Frančiška Asiškega, Koper",
+                    "count": 2
+                },
+                {
+                    "value": "Dvorana Tabor",
+                    "count": 10
+                },
+                {
+                    "value": "Dvorana Tivoli",
+                    "count": 23
+                },
+                {
+                    "value": "Dvorana Union",
+                    "count": 2
+                },
+                {
+                    "value": "Dvorana Vitranc",
+                    "count": 4
+                },
+                {
+                    "value": "Dvorana Zlato polje",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana mladosti",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana prve slovenske vlade",
+                    "count": 6
+                },
+                {
+                    "value": "Dvorana v Oštariji pri Krači",
+                    "count": 1
+                },
+                {
+                    "value": "Dvorana Špic D Dravograd",
+                    "count": 2
+                },
+                {
+                    "value": "Ernst Happel Stadion",
+                    "count": 1
+                },
+                {
+                    "value": "FORNEBU | Unity Arena",
+                    "count": 1
+                },
+                {
+                    "value": "Festivalna dvorana Bled",
+                    "count": 4
+                },
+                {
+                    "value": "Festivalna dvorana Lent Maribor",
+                    "count": 3
+                },
+                {
+                    "value": "Festivalna dvorana Ljubljana",
+                    "count": 9
+                },
+                {
+                    "value": "Flex",
+                    "count": 1
+                },
+                {
+                    "value": "GASILSKI DOM MORAVSKE TOPLICE",
+                    "count": 1
+                },
+                {
+                    "value": "GLOBE WIEN - MARX HALLE",
+                    "count": 1
+                },
+                {
+                    "value": "GRAD BOGENŠPERK",
+                    "count": 1
+                },
+                {
+                    "value": "Gledališče Koper",
+                    "count": 3
+                },
+                {
+                    "value": "Gledališče Park Murska Sobota",
+                    "count": 3
+                },
+                {
+                    "value": "Gledališče Toneta Čufarja",
+                    "count": 3
+                },
+                {
+                    "value": "Gospodarsko razstavišče",
+                    "count": 6
+                },
+                {
+                    "value": "Grad Rače (večnamenska dvorana)",
+                    "count": 1
+                },
+                {
+                    "value": "Grando Portorož",
+                    "count": 1
+                },
+                {
+                    "value": "Green Park St. Pölten",
+                    "count": 3
+                },
+                {
+                    "value": "Grelle Forelle",
+                    "count": 1
+                },
+                {
+                    "value": "HOTEL SMUK SEMIČ",
+                    "count": 1
+                },
+                {
+                    "value": "HRAM KULTURE Arnolda Tovornika",
+                    "count": 1
+                },
+                {
+                    "value": "Hrvatsko narodno kazalište Zadar",
+                    "count": 1
+                },
+                {
+                    "value": "Igrišče Vreme",
+                    "count": 1
+                },
+                {
+                    "value": "Ipavčev kulturni center Šentjur",
+                    "count": 3
+                },
+                {
+                    "value": "Jakličev dom",
+                    "count": 1
+                },
+                {
+                    "value": "KD Loški oder Škofja Loka",
+                    "count": 5
+                },
+                {
+                    "value": "KRIŽANKE",
+                    "count": 22
+                },
+                {
+                    "value": "KULTURNA DVORANA SEVNICA",
+                    "count": 3
+                },
+                {
+                    "value": "KULTURNI DOM NOTRANJE GORICE",
+                    "count": 2
+                },
+                {
+                    "value": "KULTURNI DOM POSTOJNA",
+                    "count": 5
+                },
+                {
+                    "value": "Kardeljeva ploščad",
+                    "count": 2
+                },
+                {
+                    "value": "Kazina Jazz Club",
+                    "count": 2
+                },
+                {
+                    "value": "Kino SC",
+                    "count": 1
+                },
+                {
+                    "value": "Kino Velenje",
+                    "count": 1
+                },
+                {
+                    "value": "Kino Šiška",
+                    "count": 23
+                },
+                {
+                    "value": "Kinodvorana Rače",
+                    "count": 1
+                },
+                {
+                    "value": "Kinogledališče Tolmin",
+                    "count": 2
+                },
+                {
+                    "value": "Klub CVETLIČARNA",
+                    "count": 8
+                },
+                {
+                    "value": "Klub Jedro",
+                    "count": 1
+                },
+                {
+                    "value": "Klub Mesečina Trbovlje",
+                    "count": 1
+                },
+                {
+                    "value": "Koncertna dvorana Vatroslava Lisinskog",
+                    "count": 1
+                },
+                {
+                    "value": "Kongresni center Brdo",
+                    "count": 5
+                },
+                {
+                    "value": "Koper - različna prizorišča",
+                    "count": 1
+                },
+                {
+                    "value": "Koruzni labirint Krtina",
+                    "count": 1
+                },
+                {
+                    "value": "Kosovelov dom Sežana",
+                    "count": 4
+                },
+                {
+                    "value": "Krajevna skupnost Stražišče",
+                    "count": 1
+                },
+                {
+                    "value": "Kranjska Gora, Ljubno, Rogla, Planica",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni center Janeza Trdine",
+                    "count": 5
+                },
+                {
+                    "value": "Kulturni center Kočevje",
+                    "count": 2
+                },
+                {
+                    "value": "Kulturni center Laško",
+                    "count": 3
+                },
+                {
+                    "value": "Kulturni center Litija",
+                    "count": 3
+                },
+                {
+                    "value": "Kulturni center ROGAŠKA SLATINA",
+                    "count": 2
+                },
+                {
+                    "value": "Kulturni center Semič",
+                    "count": 3
+                },
+                {
+                    "value": "Kulturni center Tržič",
+                    "count": 5
+                },
+                {
+                    "value": "Kulturni dom Bovec",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Cerknica",
+                    "count": 4
+                },
+                {
+                    "value": "Kulturni dom Grosuplje",
+                    "count": 2
+                },
+                {
+                    "value": "Kulturni dom Korena",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Krško",
+                    "count": 6
+                },
+                {
+                    "value": "Kulturni dom Ljubno",
+                    "count": 2
+                },
+                {
+                    "value": "Kulturni dom Mengeš - Špas Teater",
+                    "count": 20
+                },
+                {
+                    "value": "Kulturni dom Metlika",
+                    "count": 2
+                },
+                {
+                    "value": "Kulturni dom Moravče",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Mozirje",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Nazarje",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Nova Gorica",
+                    "count": 7
+                },
+                {
+                    "value": "Kulturni dom Podnart",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Radlje ob Dravi",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Radomlje",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Sokolana",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Spodnja Idrija",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Sv. Duh, Škofja Loka",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Trebnje",
+                    "count": 3
+                },
+                {
+                    "value": "Kulturni dom Vipava",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Vodice",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Vransko",
+                    "count": 2
+                },
+                {
+                    "value": "Kulturni dom Črnuče",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Šentvid pri Stični",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Šmarje pri Jelšah",
+                    "count": 3
+                },
+                {
+                    "value": "Kulturni dom Šmartno pri Litiji",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Šoštanj",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturni dom Štore",
+                    "count": 2
+                },
+                {
+                    "value": "Kulturni hram Ignacija Borštnika",
+                    "count": 2
+                },
+                {
+                    "value": "Kulturno kongresni center Dolenjske Toplice",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturno prosvetni dom Vlada Pipana, Šentilj",
+                    "count": 1
+                },
+                {
+                    "value": "Kulturno upravni center Vuzenica",
+                    "count": 1
+                },
+                {
+                    "value": "LOLA cafe & bistro",
+                    "count": 1
+                },
+                {
+                    "value": "Ledena dvorana Bled",
+                    "count": 1
+                },
+                {
+                    "value": "Levstikov dom",
+                    "count": 2
+                },
+                {
+                    "value": "Linhartova dvorana Radovljica",
+                    "count": 1
+                },
+                {
+                    "value": "Ljudski dom Kranjska Gora",
+                    "count": 2
+                },
+                {
+                    "value": "Ljudski dom Šentvid",
+                    "count": 2
+                },
+                {
+                    "value": "Lutkovno gledališče Maribor",
+                    "count": 1
+                },
+                {
+                    "value": "MEDIA CENTER CVETLIČARNA",
+                    "count": 3
+                },
+                {
+                    "value": "MESAP Nedelišće",
+                    "count": 1
+                },
+                {
+                    "value": "MINI TEATER",
+                    "count": 4
+                },
+                {
+                    "value": "Marco Polo Club",
+                    "count": 2
+                },
+                {
+                    "value": "Mestni trg, Trg pod gradom, Spodnji trg, Trg mesta Freising",
+                    "count": 7
+                },
+                {
+                    "value": "Mestno gledališče Ptuj",
+                    "count": 3
+                },
+                {
+                    "value": "Minoritska cerkev",
+                    "count": 1
+                },
+                {
+                    "value": "Mozaik Event Centar",
+                    "count": 4
+                },
+                {
+                    "value": "Muzej zaboravljenih priča",
+                    "count": 1
+                },
+                {
+                    "value": "Narodni dom Celje",
+                    "count": 2
+                },
+                {
+                    "value": "Narodni dom Logatec",
+                    "count": 2
+                },
+                {
+                    "value": "Narodni dom Maribor",
+                    "count": 9
+                },
+                {
+                    "value": "Odiseja",
+                    "count": 15
+                },
+                {
+                    "value": "Olympiahalle",
+                    "count": 1
+                },
+                {
+                    "value": "Osnovna šola 1 Murska Sobota",
+                    "count": 1
+                },
+                {
+                    "value": "Ottakringer Brauerei",
+                    "count": 2
+                },
+                {
+                    "value": "POLITEAMA ROSSETTI",
+                    "count": 3
+                },
+                {
+                    "value": "POSTHOF - Großer Saal",
+                    "count": 2
+                },
+                {
+                    "value": "Pannonia Fields II",
+                    "count": 3
+                },
+                {
+                    "value": "Parkirišče TIB Storitve d.o.o.",
+                    "count": 1
+                },
+                {
+                    "value": "Parkirišče za olimpijskim bazenom Koper",
+                    "count": 2
+                },
+                {
+                    "value": "Piazza Unita dItalia",
+                    "count": 1
+                },
+                {
+                    "value": "Pionirski teater",
+                    "count": 5
+                },
+                {
+                    "value": "Planai-Stadion",
+                    "count": 1
+                },
+                {
+                    "value": "Planica",
+                    "count": 7
+                },
+                {
+                    "value": "Porgy & Bess",
+                    "count": 1
+                },
+                {
+                    "value": "Primskovo",
+                    "count": 7
+                },
+                {
+                    "value": "Prireditveni šotor / Begunje na Gorenjskem",
+                    "count": 4
+                },
+                {
+                    "value": "RUDNIŠKA DVORANA",
+                    "count": 4
+                },
+                {
+                    "value": "Raiffeisen Halle im Gasometer",
+                    "count": 23
+                },
+                {
+                    "value": "Različna prizorišča",
+                    "count": 1
+                },
+                {
+                    "value": "Rdeča dvorana Velenje",
+                    "count": 1
+                },
+                {
+                    "value": "Rekreacijsko-kulturno središče (REKS) Ravne pri Šoštanju",
+                    "count": 1
+                },
+                {
+                    "value": "Restavracija Blejska hiša",
+                    "count": 1
+                },
+                {
+                    "value": "Rovi pod starim Kranjem",
+                    "count": 13
+                },
+                {
+                    "value": "Ruska dača",
+                    "count": 1
+                },
+                {
+                    "value": "SLG Celje",
+                    "count": 1
+                },
+                {
+                    "value": "Schlosspark, Schloss Esterhazy",
+                    "count": 2
+                },
+                {
+                    "value": "Simm City Festsaal Zentrum Simmering",
+                    "count": 3
+                },
+                {
+                    "value": "Slomškov kulturni dom Slovenska Bistrica",
+                    "count": 2
+                },
+                {
+                    "value": "Slovenska filharmonija",
+                    "count": 1
+                },
+                {
+                    "value": "Sokolski dom Gorenja vas",
+                    "count": 1
+                },
+                {
+                    "value": "Stadion Bonifika",
+                    "count": 2
+                },
+                {
+                    "value": "Stadion Matije Gubca",
+                    "count": 1
+                },
+                {
+                    "value": "Stadion Stožice",
+                    "count": 2
+                },
+                {
+                    "value": "Stadthalle Graz",
+                    "count": 5
+                },
+                {
+                    "value": "Szene Wien",
+                    "count": 1
+                },
+                {
+                    "value": "TEST Prizorišče",
+                    "count": 3
+                },
+                {
+                    "value": "Taverna Koper",
+                    "count": 1
+                },
+                {
+                    "value": "Telovadnica OŠ Poljčane",
+                    "count": 1
+                },
+                {
+                    "value": "Tim bistro in bar Ribnica",
+                    "count": 1
+                },
+                {
+                    "value": "TipsArena Linz",
+                    "count": 1
+                },
+                {
+                    "value": "Tvornica kulture",
+                    "count": 6
+                },
+                {
+                    "value": "VOUCHER",
+                    "count": 1
+                },
+                {
+                    "value": "Večnamenska dvorana Markovci",
+                    "count": 1
+                },
+                {
+                    "value": "Večnamenska dvorana VINSKA GORA",
+                    "count": 1
+                },
+                {
+                    "value": "Wiener Konzerthaus, Großer Saal",
+                    "count": 2
+                },
+                {
+                    "value": "Wiener Stadthalle / Halle F",
+                    "count": 2
+                },
+                {
+                    "value": "Wiener Stadthalle Halle D",
+                    "count": 14
+                },
+                {
+                    "value": "Zadružni dom Škofije",
+                    "count": 1
+                },
+                {
+                    "value": "Škocjan - Kulturni center",
+                    "count": 1
+                },
+                {
+                    "value": "Školsko sportska dvorana Josip Samaržija - Bepo",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Benedikt",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Dobrova",
+                    "count": 2
+                },
+                {
+                    "value": "Športna dvorana Domžale",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Gorišnica",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Kodeljevo",
+                    "count": 2
+                },
+                {
+                    "value": "Športna dvorana Medvode",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Milenij Oplotnica",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Nazarje",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana OŠ Toneta Pavčka Mirna Peč",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana OŠ Vojnik",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Podčetrtek",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Skala",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Skala Pivka",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Trata",
+                    "count": 3
+                },
+                {
+                    "value": "Športna dvorana Vojnik",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana ŠIC Ljutomer",
+                    "count": 2
+                },
+                {
+                    "value": "Športna dvorana Šentjur",
+                    "count": 1
+                },
+                {
+                    "value": "Športna dvorana Železniki",
+                    "count": 1
+                },
+                {
+                    "value": "Štuk",
+                    "count": 1
+                },
+                {
+                    "value": "ŽIČKA KARTUZIJA",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "name": "categories",
+            "facetHierarchicalItems": [
+                {
+                    "value": "Darilni bon",
+                    "count": 3,
+                    "hierarchicalItems": [
+                        {
+                            "value": "Darilni bon",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "value": "Dodatno",
+                    "count": 219,
+                    "hierarchicalItems": [
+                        {
+                            "value": "Festivali",
+                            "count": 37
+                        },
+                        {
+                            "value": "Film, kino",
+                            "count": 3
+                        },
+                        {
+                            "value": "Komedija",
+                            "count": 64
+                        },
+                        {
+                            "value": "Ostalo",
+                            "count": 89
+                        },
+                        {
+                            "value": "Predavanja",
+                            "count": 6
+                        },
+                        {
+                            "value": "Prireditev",
+                            "count": 1
+                        },
+                        {
+                            "value": "Razstava",
+                            "count": 6
+                        },
+                        {
+                            "value": "Zabava",
+                            "count": 13
+                        }
+                    ]
+                },
+                {
+                    "value": "Družina",
+                    "count": 14,
+                    "hierarchicalItems": [
+                        {
+                            "value": "Cirkus",
+                            "count": 5
+                        },
+                        {
+                            "value": "Otroški dogodki",
+                            "count": 9
+                        }
+                    ]
+                },
+                {
+                    "value": "Glasba",
+                    "count": 204,
+                    "hierarchicalItems": [
+                        {
+                            "value": "Hard & Heavy",
+                            "count": 6
+                        },
+                        {
+                            "value": "Jazz",
+                            "count": 1
+                        },
+                        {
+                            "value": "Klasična glasba",
+                            "count": 14
+                        },
+                        {
+                            "value": "Klubski dogodki",
+                            "count": 3
+                        },
+                        {
+                            "value": "Metal",
+                            "count": 17
+                        },
+                        {
+                            "value": "Narodna in zabavna glasba",
+                            "count": 23
+                        },
+                        {
+                            "value": "Punk",
+                            "count": 1
+                        },
+                        {
+                            "value": "Rock & pop",
+                            "count": 140
+                        }
+                    ]
+                },
+                {
+                    "value": "Kultura",
+                    "count": 193,
+                    "hierarchicalItems": [
+                        {
+                            "value": "Gledališče",
+                            "count": 190
+                        },
+                        {
+                            "value": "Muzikal",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "value": "Šport",
+                    "count": 42,
+                    "hierarchicalItems": [
+                        {
+                            "value": "Hokej na ledu",
+                            "count": 11
+                        },
+                        {
+                            "value": "Košarka",
+                            "count": 5
+                        },
+                        {
+                            "value": "Nogomet",
+                            "count": 4
+                        },
+                        {
+                            "value": "Športne prireditve",
+                            "count": 26
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "priceRange",
+            "facetRangeItems": [
+                {
+                    "name": "priceMin",
+                    "value": 0.00
+                },
+                {
+                    "name": "priceMax",
+                    "value": 401.00
+                }
+            ]
+        },
+        {
+            "name": "recommendations",
+            "facetItems": [
+                {
+                    "value": "false",
+                    "count": 693
+                }
+            ]
+        },
+        {
+            "name": "topCities",
+            "facetHierarchicalItems": [
+                {
+                    "value": "otherCities",
+                    "count": 100,
+                    "facetItems": [
+                        {
+                            "value": "Ljubljana",
+                            "count": 176,
+                            "info": "ljubljana-5738"
+                        },
+                        {
+                            "value": "Zagreb",
+                            "count": 32,
+                            "info": "zagreb-5737"
+                        },
+                        {
+                            "value": "Maribor",
+                            "count": 29,
+                            "info": "maribor-5754"
+                        },
+                        {
+                            "value": "Kranj",
+                            "count": 27,
+                            "info": "kranj-5753"
+                        },
+                        {
+                            "value": "Mengeš",
+                            "count": 20,
+                            "info": "menges-5764"
+                        },
+                        {
+                            "value": "Škofja Loka",
+                            "count": 16,
+                            "info": "skofja-loka-5777"
+                        },
+                        {
+                            "value": "Koper",
+                            "count": 14,
+                            "info": "koper-5743"
+                        },
+                        {
+                            "value": "Kranjska Gora",
+                            "count": 11,
+                            "info": "kranjska-gora-5774"
+                        },
+                        {
+                            "value": "Nova Gorica",
+                            "count": 9,
+                            "info": "nova-gorica-5773"
+                        },
+                        {
+                            "value": "Celje",
+                            "count": 8,
+                            "info": "celje-5746"
+                        },
+                        {
+                            "value": "Velenje",
+                            "count": 8,
+                            "info": "velenje-5769"
+                        },
+                        {
+                            "value": "Krško",
+                            "count": 7,
+                            "info": "krsko-5767"
+                        },
+                        {
+                            "value": "Portorož",
+                            "count": 7,
+                            "info": "portoroz-5739"
+                        },
+                        {
+                            "value": "Rateče",
+                            "count": 7,
+                            "info": "ratece-5756"
+                        },
+                        {
+                            "value": "Ajdovščina",
+                            "count": 6,
+                            "info": "ajdovscina-5794"
+                        },
+                        {
+                            "value": "Bled",
+                            "count": 6,
+                            "info": "bled-5766"
+                        },
+                        {
+                            "value": "Novo Mesto",
+                            "count": 6,
+                            "info": "novo-mesto-5763"
+                        },
+                        {
+                            "value": "Brežice",
+                            "count": 5,
+                            "info": "brezice-5804"
+                        },
+                        {
+                            "value": "Kostanjevica na Krki",
+                            "count": 5,
+                            "info": "kostanjevica-na-krki-5778"
+                        },
+                        {
+                            "value": "Logatec",
+                            "count": 5,
+                            "info": "logatec-5729"
+                        },
+                        {
+                            "value": "Postojna",
+                            "count": 5,
+                            "info": "postojna-5790"
+                        },
+                        {
+                            "value": "Slovenske Konjice",
+                            "count": 5,
+                            "info": "slovenske-konjice-5811"
+                        },
+                        {
+                            "value": "Tržič",
+                            "count": 5,
+                            "info": "trzic-5841"
+                        },
+                        {
+                            "value": "Vrhnika",
+                            "count": 5,
+                            "info": "vrhnika-5780"
+                        },
+                        {
+                            "value": "Žalec",
+                            "count": 5,
+                            "info": "zalec-5768"
+                        },
+                        {
+                            "value": "Begunje na Gorenjskem",
+                            "count": 4,
+                            "info": "begunje-na-gorenjskem-5846"
+                        },
+                        {
+                            "value": "Cerknica",
+                            "count": 4,
+                            "info": "cerknica-5843"
+                        },
+                        {
+                            "value": "Idrija",
+                            "count": 4,
+                            "info": "idrija-5849"
+                        },
+                        {
+                            "value": "Ljutomer",
+                            "count": 4,
+                            "info": "ljutomer-5725"
+                        },
+                        {
+                            "value": "Murska Sobota",
+                            "count": 4,
+                            "info": "murska-sobota-5765"
+                        },
+                        {
+                            "value": "Prevalje",
+                            "count": 4,
+                            "info": "prevalje-5785"
+                        },
+                        {
+                            "value": "Ptuj",
+                            "count": 4,
+                            "info": "ptuj-5762"
+                        },
+                        {
+                            "value": "Semič",
+                            "count": 4,
+                            "info": "semic-5813"
+                        },
+                        {
+                            "value": "Sežana",
+                            "count": 4,
+                            "info": "sezana-5818"
+                        },
+                        {
+                            "value": "Slovenska Bistrica",
+                            "count": 4,
+                            "info": "slovenska-bistrica-5840"
+                        },
+                        {
+                            "value": "Šentjur",
+                            "count": 4,
+                            "info": "sentjur-5728"
+                        },
+                        {
+                            "value": "Ilirska Bistrica",
+                            "count": 3,
+                            "info": "ilirska-bistrica-5808"
+                        },
+                        {
+                            "value": "Jesenice",
+                            "count": 3,
+                            "info": "jesenice-5779"
+                        },
+                        {
+                            "value": "Kamnik",
+                            "count": 3,
+                            "info": "kamnik-5814"
+                        },
+                        {
+                            "value": "Laško",
+                            "count": 3,
+                            "info": "lasko-5819"
+                        },
+                        {
+                            "value": "Litija",
+                            "count": 3,
+                            "info": "litija-5825"
+                        },
+                        {
+                            "value": "Ormož",
+                            "count": 3,
+                            "info": "ormoz-5854"
+                        },
+                        {
+                            "value": "Sevnica",
+                            "count": 3,
+                            "info": "sevnica-5787"
+                        },
+                        {
+                            "value": "Trebnje",
+                            "count": 3,
+                            "info": "trebnje-5731"
+                        },
+                        {
+                            "value": "Šmarje pri Jelšah",
+                            "count": 3,
+                            "info": "smarje-pri-jelsah-5827"
+                        },
+                        {
+                            "value": "Šoštanj",
+                            "count": 3,
+                            "info": "sostanj-5829"
+                        },
+                        {
+                            "value": "Cerklje na Gorenjskem",
+                            "count": 2,
+                            "info": "cerklje-na-gorenjskem-5798"
+                        },
+                        {
+                            "value": "Dobrova",
+                            "count": 2,
+                            "info": "dobrova-5815"
+                        },
+                        {
+                            "value": "Domžale",
+                            "count": 2,
+                            "info": "domzale-5734"
+                        },
+                        {
+                            "value": "Dravograd",
+                            "count": 2,
+                            "info": "dravograd-5793"
+                        },
+                        {
+                            "value": "Gornja Radgona",
+                            "count": 2,
+                            "info": "gornja-radgona-5760"
+                        },
+                        {
+                            "value": "Grosuplje",
+                            "count": 2,
+                            "info": "grosuplje-5784"
+                        },
+                        {
+                            "value": "Kočevje",
+                            "count": 2,
+                            "info": "kocevje-5832"
+                        },
+                        {
+                            "value": "Lenart v Slov. Goricah",
+                            "count": 2,
+                            "info": "lenart-v-slov-goricah-5823"
+                        },
+                        {
+                            "value": "Ljubljana-Šentvid",
+                            "count": 2,
+                            "info": "ljubljana-sentvid-5887"
+                        },
+                        {
+                            "value": "Ljubno ob Savinji",
+                            "count": 2,
+                            "info": "ljubno-ob-savinji-5806"
+                        },
+                        {
+                            "value": "Medvode",
+                            "count": 2,
+                            "info": "medvode-5759"
+                        },
+                        {
+                            "value": "Metlika",
+                            "count": 2,
+                            "info": "metlika-5908"
+                        },
+                        {
+                            "value": "Nazarje",
+                            "count": 2,
+                            "info": "nazarje-5970"
+                        },
+                        {
+                            "value": "Notranje Gorice",
+                            "count": 2,
+                            "info": "notranje-gorice-5852"
+                        },
+                        {
+                            "value": "Oplotnica",
+                            "count": 2,
+                            "info": "oplotnica-5837"
+                        },
+                        {
+                            "value": "Pivka",
+                            "count": 2,
+                            "info": "pivka-5836"
+                        },
+                        {
+                            "value": "Rače",
+                            "count": 2,
+                            "info": "race-5800"
+                        },
+                        {
+                            "value": "Rogaška Slatina",
+                            "count": 2,
+                            "info": "rogaska-slatina-5786"
+                        },
+                        {
+                            "value": "Tolmin",
+                            "count": 2,
+                            "info": "tolmin-5839"
+                        },
+                        {
+                            "value": "Trbovlje",
+                            "count": 2,
+                            "info": "trbovlje-5791"
+                        },
+                        {
+                            "value": "Velike Lašče",
+                            "count": 2,
+                            "info": "velike-lasce-5853"
+                        },
+                        {
+                            "value": "Vitanje",
+                            "count": 2,
+                            "info": "vitanje-5845"
+                        },
+                        {
+                            "value": "Vojnik",
+                            "count": 2,
+                            "info": "vojnik-5842"
+                        },
+                        {
+                            "value": "Vransko",
+                            "count": 2,
+                            "info": "vransko-5812"
+                        },
+                        {
+                            "value": "Zagorje ob Savi",
+                            "count": 2,
+                            "info": "zagorje-ob-savi-5752"
+                        },
+                        {
+                            "value": "Škocjan",
+                            "count": 2,
+                            "info": "skocjan-5899"
+                        },
+                        {
+                            "value": "Šmartno pri Litiji",
+                            "count": 2,
+                            "info": "smartno-pri-litiji-5771"
+                        },
+                        {
+                            "value": "Štore",
+                            "count": 2,
+                            "info": "store-5727"
+                        },
+                        {
+                            "value": "Beltinci",
+                            "count": 1,
+                            "info": "beltinci-5934"
+                        },
+                        {
+                            "value": "Benedikt",
+                            "count": 1,
+                            "info": "benedikt-5726"
+                        },
+                        {
+                            "value": "Bovec",
+                            "count": 1,
+                            "info": "bovec-5896"
+                        },
+                        {
+                            "value": "Braslovče",
+                            "count": 1,
+                            "info": "braslovce-5810"
+                        },
+                        {
+                            "value": "Dolenjske Toplice",
+                            "count": 1,
+                            "info": "dolenjske-toplice-5856"
+                        },
+                        {
+                            "value": "Gorenja Vas",
+                            "count": 1,
+                            "info": "gorenja-vas-5831"
+                        },
+                        {
+                            "value": "Gorišnica",
+                            "count": 1,
+                            "info": "gorisnica-5888"
+                        },
+                        {
+                            "value": "Hrastnik",
+                            "count": 1,
+                            "info": "hrastnik-5751"
+                        },
+                        {
+                            "value": "Ig",
+                            "count": 1,
+                            "info": "ig-5848"
+                        },
+                        {
+                            "value": "Krtina",
+                            "count": 1,
+                            "info": "krtina-5957"
+                        },
+                        {
+                            "value": "Limbuš",
+                            "count": 1,
+                            "info": "limbus-5805"
+                        },
+                        {
+                            "value": "Ljubljana-Črnuče",
+                            "count": 1,
+                            "info": "ljubljana-crnuce-5917"
+                        },
+                        {
+                            "value": "Ljubljana-Šmartno",
+                            "count": 1,
+                            "info": "ljubljana-smartno-5820"
+                        },
+                        {
+                            "value": "Loče",
+                            "count": 1,
+                            "info": "loce-5788"
+                        },
+                        {
+                            "value": "Mirna Peč",
+                            "count": 1,
+                            "info": "mirna-pec-5730"
+                        },
+                        {
+                            "value": "Moravče",
+                            "count": 1,
+                            "info": "moravce-5897"
+                        },
+                        {
+                            "value": "Mozirje",
+                            "count": 1,
+                            "info": "mozirje-5835"
+                        },
+                        {
+                            "value": "Podnart",
+                            "count": 1,
+                            "info": "podnart-5906"
+                        },
+                        {
+                            "value": "Podčetrtek",
+                            "count": 1,
+                            "info": "podcetrtek-5772"
+                        },
+                        {
+                            "value": "Poljčane",
+                            "count": 1,
+                            "info": "poljcane-5915"
+                        },
+                        {
+                            "value": "Prebold",
+                            "count": 1,
+                            "info": "prebold-5859"
+                        },
+                        {
+                            "value": "Pula",
+                            "count": 1,
+                            "info": "pula-5757"
+                        },
+                        {
+                            "value": "Radeče",
+                            "count": 1,
+                            "info": "radece-5867"
+                        },
+                        {
+                            "value": "Radomlje",
+                            "count": 1,
+                            "info": "radomlje-5866"
+                        },
+                        {
+                            "value": "Radovljica",
+                            "count": 1,
+                            "info": "radovljica-5748"
+                        },
+                        {
+                            "value": "Ribnica",
+                            "count": 1,
+                            "info": "ribnica-5775"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "results": 50,
+    "totalResults": 693,
+    "page": 1,
+    "totalPages": 10
+}
