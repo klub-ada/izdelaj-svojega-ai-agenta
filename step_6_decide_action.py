@@ -35,24 +35,20 @@ class EventAgent:
             return []
     
     def score_event(self, event):
-        # Score events based on knowledge graph
+        """Score event based on knowledge graph"""
         score = 0
         reasons = []
-
+        
         # Check interest match
-        if self.user_preferences["interests"] and event.get("category") in self.user_preferences["interests"]:
+        user_interests = self.user_preferences["interests"]
+        if event.get("category") in user_interests:
             score += 3
             reasons.append(f"matches {event['category']} interest")
         
         # Check location
-        if self.user_preferences["location"] and self.knowledge_graph["venues"][event.get("venue")].get("location") == self.user_preferences["location"]:
-            score += 3
-            reasons.append("in your city")
-
-        # Check price
-        if self.user_preferences["preferred_price"] and event.get("price") <= self.knowledge_graph["pricing"][self.user_preferences["preferred_price"]]:
+        if event.get("location") == self.user_preferences["location"]:
             score += 2
-            reasons.append("in your price range")
+            reasons.append("in your city")
         
         # Check if organizer is followed
         organizer = event.get("organizer")
@@ -78,6 +74,7 @@ class EventAgent:
                 })
 
         scored_events.sort(key=lambda x: x.get("score", 0), reverse=True)
+        print("scored_events: ", scored_events)
         return scored_events[:3]
 
     def format_events(self, events):
@@ -226,11 +223,15 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
                     continue
 
                 # TODO: Decide what action to take
-                action = ""
+                action = self.decide_action(user_input)
+
+                print("action: ", action)
 
                 # Execute the action
                 if action == "quit":
                     # TODO: Quit the agent
+                    print("\n🤖 Goodbye!")
+                    break
 
                 # Update user preferences
                 self.update_user_preferences(user_input)
@@ -249,7 +250,7 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
                     Previous conversation: {history_context}
                     Respond naturally and helpfully.
                     """
-                    response = "..."
+                    response = self.ask_ollama(prompt)
                     print(f"🤖 {response}\n")
 
                     # Store conversation in history
@@ -259,10 +260,10 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
                 
                 if action == "suggest_events":
                     # TODO: Get suggested events
-                    suggested_events = []
-
+                    suggested_events = self.suggest_events()
+                    print("suggested_events: ", suggested_events)
                     # TODO:Format events
-                    formatted_events = []
+                    formatted_events = self.format_events(suggested_events)
 
                     response = "Here are some events for you:\n\n" + "\n\n".join(formatted_events)
 
