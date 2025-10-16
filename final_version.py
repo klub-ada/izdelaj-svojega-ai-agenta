@@ -78,6 +78,7 @@ class EventAgent:
                 })
 
         scored_events.sort(key=lambda x: x.get("score", 0), reverse=True)
+        print("scored_events: ", scored_events[:3])
         return scored_events[:3]
 
     def format_events(self, events):
@@ -225,12 +226,18 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
                 if not user_input:
                     continue
 
-                # TODO: Decide what action to take
-                action = ""
+                # Decide what action to take
+                action = self.decide_action(user_input)
+
+                print(f"Decided action: {action}")
+
+                print(action == "suggest_events")
 
                 # Execute the action
                 if action == "quit":
-                    # TODO: Quit the agent
+                    # Quit the agent
+                    print("🤖 Goodbye!")
+                    break
 
                 # Update user preferences
                 self.update_user_preferences(user_input)
@@ -240,7 +247,7 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
         
                 
                 if action == "general_chat":
-                    # TODO: Have a normal conversation
+                    # Have a normal conversation
                     prompt = f"""You are a helpful event assistant.
                     Have a normal conversation with the user.
                     Ask the user about their interests and if they want to see events.
@@ -249,7 +256,7 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
                     Previous conversation: {history_context}
                     Respond naturally and helpfully.
                     """
-                    response = "..."
+                    response = self.ask_ollama(prompt)
                     print(f"🤖 {response}\n")
 
                     # Store conversation in history
@@ -258,11 +265,12 @@ CRITICAL: Respond with ONLY the JSON object, no explanations, no markdown, no co
                     continue
                 
                 if action == "suggest_events":
-                    # TODO: Get suggested events
-                    suggested_events = []
+                    print("Action: suggest_events")
+                    # Get suggested events
+                    suggested_events = self.suggest_events()
 
-                    # TODO:Format events
-                    formatted_events = []
+                    # Format events
+                    formatted_events = self.format_events(suggested_events)
 
                     response = "Here are some events for you:\n\n" + "\n\n".join(formatted_events)
 
