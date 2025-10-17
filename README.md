@@ -97,7 +97,7 @@ sudo apt install python3-pip python3-dev python3-venv build-essential
     Windows - Powershell: 
 
     ```bash
-    .\venv\Scripts\activate.psl
+    .\venv\Scripts\activate.ps1
     ```
 
     Windows - Command Prompt
